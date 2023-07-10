@@ -28,12 +28,12 @@ This repository contains an auditable voting application that ensures the confid
 
 3. Start the server:
    ```shell
-   python server.py
+   python Committee.py
    ```
 
 4. Start the client:
    ```shell
-   python client.py
+   python VoteSystem.py
    ```
 
 ## Authors
